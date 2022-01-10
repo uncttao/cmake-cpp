@@ -1,2 +1,2 @@
 # cmake-cpp
-C++ console application using CMake template
+C++ console application using CMake (template)
